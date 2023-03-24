@@ -2,9 +2,9 @@
 
 👀 热爱的就是一些奇奇怪怪的东西，在合法合规的框架下，尽量体验生活
 
-🌱 什么都想学，什么都想知道，目前在学深度学习（pytorch）
+🌱 什么都想学，什么都想知道，目前在深度学习
 
-📫 欢迎各位contribute
+📫 每天都在摆烂或者摆烂路上
 
 <!---
 Becomingw/Becomingw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
