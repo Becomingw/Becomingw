@@ -1,11 +1,10 @@
-👋 好的，我叫Becomingw, From CHina,一名普通高校医学研究生
+Becomingw, from China, an ordinary graduate student majoring in medicine. 
 
-👀 热爱的就是一些奇奇怪怪的东西，在合法合规的框架下，尽量体验生活
+👀 I am passionate about all sorts of unusual things and try to experience life. 
 
-🌱 什么都想学，什么都想知道，但是确实没啥特别的
+🌱 I want to learn everything and know everything, but there is nothing particularly special about me. 
 
-📫 每天都在摆烂或者摆烂路上
-
+😂 Every day, I am either slacking off or on my way to slacking off.
 <!---
 Becomingw/Becomingw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
