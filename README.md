@@ -1,4 +1,4 @@
-Becomingw, from China, majoring in medicine and AI. 
+Becomingw, from China. 
 
 👀 I am passionate about all sorts of unusual things and try to experience life. 
 
