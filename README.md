@@ -34,7 +34,7 @@ I love exploring unusual things and experiencing life. My journey is about pushi
 
 - 🎓 PhD student in **Medical Imaging & AI**  
 - 📄 Published multiple papers in medical AI journals/conferences  
-- ✍️ Running a **WeChat public account (3300+ followers)** on medical imaging + AI  
+- ✍️ Running a **WeChat public account (3900+ followers)** on medical imaging + AI  
 - 💡 Always exploring **interdisciplinary ideas** at the intersection of **healthcare & AI**  
 
 ---
