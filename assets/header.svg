@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-labelledby="title desc">
+  <title id="title">Becomingw</title>
+  <desc id="desc">Medical imaging, machine learning, and tools for research. A dark blue banner with teal contours evoking layered image reconstruction.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1726"/><stop offset="1" stop-color="#162c3b"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#57d9c0" stop-opacity=".1"/><stop offset="1" stop-color="#57d9c0" stop-opacity=".8"/></linearGradient>
+    <clipPath id="bounds"><rect width="1000" height="320" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1000" height="320" fill="url(#bg)"/>
+    <g stroke="#64869c" stroke-opacity=".1" stroke-width="1">
+      <path d="M640 0V320M700 0V320M760 0V320M820 0V320M880 0V320M940 0V320M600 40H1000M600 100H1000M600 160H1000M600 220H1000M600 280H1000"/>
+    </g>
+    <g fill="none" stroke="url(#line)" stroke-width="1.5" transform="translate(800 162) rotate(-24)">
+      <ellipse rx="154" ry="94"/><ellipse rx="138" ry="83"/><ellipse rx="122" ry="72"/><ellipse rx="106" ry="61"/><ellipse rx="90" ry="50"/><ellipse rx="74" ry="39"/><ellipse rx="58" ry="28"/><ellipse rx="42" ry="17"/>
+      <path d="M-180 0H180M0-115V115" stroke-dasharray="3 7" stroke-opacity=".4"/>
+    </g>
+    <circle cx="856" cy="116" r="5" fill="#57d9c0"/>
+    <circle cx="856" cy="116" r="13" fill="none" stroke="#57d9c0" stroke-opacity=".3"/>
+    <rect x="52" y="54" width="32" height="3" rx="1.5" fill="#57d9c0"/>
+    <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+      <text x="52" y="143" fill="#f0f6fc" font-size="68" font-weight="700" letter-spacing="-2">Becomingw<tspan fill="#57d9c0">.</tspan></text>
+      <text x="55" y="190" fill="#c3d2df" font-size="22">Medical imaging. Machine learning.</text>
+      <text x="55" y="224" fill="#c3d2df" font-size="22">Tools for better research.</text>
+      <text x="55" y="280" fill="#7b9bad" font-size="12" letter-spacing="3">RESEARCH / CODE / CURIOSITY</text>
+    </g>
+  </g>
+</svg>
